@@ -1,0 +1,13 @@
+#wpcf7-f7263-o1 input, textarea {
+	width: 				90%  !important;
+	background-color: 	#fff !important;
+}
+
+#wpcf7-f7263-o1 input[type='submit']{
+	background-color:   #9dc935	!important;
+	border: 			1px solid #9dc935 !important;
+}
+/*
+@media screen and (max-width: 768px) {
+
+}*/

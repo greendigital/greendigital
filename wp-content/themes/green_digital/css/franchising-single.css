@@ -1,0 +1,112 @@
+h2
+{
+	font-size: 		38px !important;
+	font-weight: 	bold !important;
+	margin-bottom: 	20px !important;
+}
+#banner .banner-bg
+{
+	background-size: 		cover !important;
+	background-position: 	100%  !important;
+	margin: 				0;
+	padding: 				0;
+	border: 				0;
+	height: 				350px;
+	margin-bottom: 			50px;
+}
+ #banner h1
+{
+	max-width: 		800px;
+	width: 			100%;
+	margin: 		0 auto;
+	text-align: 	center;
+	font-size: 		45px;
+	font-weight: 	bold;
+	color: 			#fff;
+	padding-top: 	110px;
+}
+#solutions
+{
+	background-color: 	#f3f3f3;
+	text-align:  		center;
+	padding: 			80px;
+}
+#solutions .solution-item
+{
+	border-radius: 50%;
+}
+#solutions h3
+{
+	font-size: 	 20px;
+	font-weight: bold;
+	text-align:  center;
+}
+#solutions img
+{
+	width: 		130px;
+	margin: 	20px auto;
+	border: 	3px solid #fff;
+    padding: 	5px;
+}
+#solutions .iconFont{
+	font-size: 		70px;
+	margin-bottom: 	15px;
+	color: 			#86b145;
+}
+#contact
+{
+	padding: 	50px;
+	text-align: center;
+	z-index: 	-1;
+}
+#contact h3
+{
+	font-size: 	 16px;
+	font-weight: bold;
+	text-align:  center;
+}
+#contact .director-pic
+{
+	display: 			block;
+	margin: 			0 auto;
+	max-width: 			300px;
+	width: 				90%;
+	margin: 			20px auto;
+	border-radius: 		50%;
+}
+#contact .form-contact
+{
+	padding-top: 	50px;
+	margin-bottom: 	-50px;
+}
+#contact textarea
+{
+	background: #fff !important;
+	color: #333!important;
+	height: 	210px;
+}
+.wpcf7-form
+{
+    max-height: 600px !important;
+}
+#map-green-house
+{
+	padding: 	0;
+	margin: 	0;
+	border: 	0;
+	overflow: hidden;
+}
+#mk-page-introduce{
+	display: none;
+}
+@media(max-width: 768px){
+	#banner h1{
+		font-size: 30px;
+	}
+	#solutions, #contact{
+		padding: 15px;
+	}
+	.imgBanner{
+		display: none;
+	}
+}

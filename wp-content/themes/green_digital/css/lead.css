@@ -1,0 +1,20 @@
+.container{
+	margin: 0;
+	width: 90%;
+}
+.central-div{
+	width: 	600px;
+	margin: 0 auto;
+}
+.green-icon{
+	float: left;
+}
+.green-icon img{
+
+	width: 100%;
+}
+.form-contact{
+	margin-top:  20px;
+	margin-left: 20px;
+	float: 		 left;
+}
